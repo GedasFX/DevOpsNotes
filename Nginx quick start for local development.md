@@ -7,7 +7,7 @@
 
 ### Adding a service to proxy
 
-1. Create file `/etc/nginx/sites-available/localhost`
+1. Create file `/etc/nginx/sites-available/localhost` [[source]](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx#configure-nginx)
 ```json
 server {
   listen        80;
